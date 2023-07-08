@@ -1,0 +1,19 @@
+table {
+  border-bottom: 1px;
+  margin-bottom: 20px;
+  width: 30%;
+  height: 30px;
+  font-size: 20px;
+}
+
+  table td:first-child,
+table th:first-child {
+  width: 50%;
+}
+
+table td:last-child,
+table th:last-child {
+  width: 50%;
+}
+
+            
